@@ -4,8 +4,6 @@
 
 
 
-- I'm currently a junior data scientist at [Becode](https://becode.org/).
-- I'm currently learning data preprocessing, Databases, Machine learning and Deep Learning.
 - [Connect with me on LinkedIn](linkedin.com/in/wouter-van-de-vijver)
 
 
